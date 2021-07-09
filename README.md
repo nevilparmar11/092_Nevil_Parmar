@@ -1,4 +1,4 @@
-## ML Lab Work
+### ML Lab Work
  - Add description
 
 ---------
@@ -13,5 +13,5 @@ if (youEnjoyed) {
 
 -----------
 
-## Thank You
+### Thank You
 - Author : [Nevil Parmar](https://nevilparmar.ml)
